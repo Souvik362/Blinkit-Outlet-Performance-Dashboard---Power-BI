@@ -1,28 +1,41 @@
-📊 Blinkit Outlet Performance Dashboard - Power BI
-📌 Project Overview
+**📊 Blinkit Outlet Performance Dashboard - Power BI**
+
+**📌 Project Overview**
+
 This Blinkit Outlet Performance Dashboard provides a detailed analysis of sales performance, customer trends, and outlet metrics.
+
 It helps in understanding:
 
-Total and Average Sales per Outlet Type
-Number of Items Sold & Customer Ratings
-Outlet Growth Trends Over Time
-Comparison of Supermarkets vs Grocery Stores
-Fat Content and Item Type Performance
-🚀 Features & Insights
+1. Total and Average Sales per Outlet Type
+
+2. Number of Items Sold & Customer Ratings
+
+3. Outlet Growth Trends Over Time
+
+4. Comparison of Supermarkets vs Grocery Stores
+
+5. Fat Content and Item Type Performance
+
+**🚀 Features & Insights**
+
 ✅ Total & Average Sales Metrics
+
 ✅ No. of Items Sold & Avg. Ratings
+
 ✅ Outlet Establishment Growth (Yearly Trends)
+
 ✅ Outlet Size & Location Breakdown
+
 ✅ Fat Content & Item Type Analysis
+
 ✅ Comparison of Supermarkets vs Grocery Stores
 
-🖼️ Dashboard Preview
+**🛠 Tools & Technologies Used**
 
-📍(Replace insert-blinkit-image-link-here with your actual GitHub image link after uploading it.)
-
-🛠 Tools & Technologies Used
 🔹 Power BI – Interactive data visualization
+
 🔹 DAX (Data Analysis Expressions) – Calculated measures & insights
+
 🔹 Excel / CSV Dataset – Source data processing
 
 📂 Dataset Information

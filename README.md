@@ -38,9 +38,12 @@ It helps in understanding:
 
 🔹 Excel / CSV Dataset – Source data processing
 
-📂 Dataset Information
+**📂 Dataset Information**
+
 The dataset includes:
 
 Outlet Data – Types, locations, and sizes.
+
 Sales Metrics – Total sales, avg. sales, and item count.
+
 Product Data – Item type, fat content, and visibility.

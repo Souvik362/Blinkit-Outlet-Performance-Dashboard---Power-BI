@@ -6,15 +6,15 @@ This Blinkit Outlet Performance Dashboard provides a detailed analysis of sales 
 
 It helps in understanding:
 
-1. Total and Average Sales per Outlet Type
+🔹 Total and Average Sales per Outlet Type
 
-2. Number of Items Sold & Customer Ratings
+🔹 Number of Items Sold & Customer Ratings
 
-3. Outlet Growth Trends Over Time
+🔹 Outlet Growth Trends Over Time
 
-4. Comparison of Supermarkets vs Grocery Stores
+🔹 Comparison of Supermarkets vs Grocery Stores
 
-5. Fat Content and Item Type Performance
+🔹 Fat Content and Item Type Performance
 
 **🚀 Features & Insights**
 
